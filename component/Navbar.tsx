@@ -1,14 +1,15 @@
 import React from 'react'
 import style from '../component/navbar.module.css'
+import Link from 'next/link'
 const Navbar = () => {
   return (
     <div className={style.navbar}>
         <h2>Blogs</h2>
         <div className={style.items}>
-            <li>Home</li>
-            <li>Blogs</li>
-            <li>About</li>
-            <li>Contact</li>
+            <Link href='/'><li>Home</li></Link>
+            <Link href='/blogs'><li>Blogs</li></Link>
+            <Link href='/about'><li>About</li></Link>
+            <Link href='/contact'><li>Contact</li></Link>
             
         </div>
         <div className={style.sizedbox}></div>
