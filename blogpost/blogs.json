@@ -1,0 +1,19 @@
+[{
+    "title":"How to learn to code in python",
+    "content":"python is one of the easiest language to learn and its pretty useful in todays scenerio everyone uses python for machine learning , data analysis and even for web development like django framework.",
+    "author":"Amalendu Manoj",
+    "s":"codeinpython"
+},
+{
+    "title":"How to learn to code in Javascript",
+    "content":"python is one of the easiest language to learn and its pretty useful in todays scenerio everyone uses python for machine learning , data analysis and even for web development like django framework.",
+    "author":"Amalendu Manoj",
+    "s":"codeinjava"
+},
+{
+    "title":"How to learn to code in node",
+    "content":"python is one of the easiest language to learn and its pretty useful in todays scenerio everyone uses python for machine learning , data analysis and even for web development like django framework.",
+    "author":"Amalendu Manoj",
+    "s":"codeinjavascript"
+}
+]
